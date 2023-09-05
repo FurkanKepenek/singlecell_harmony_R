@@ -29,7 +29,6 @@ View(ifnb@meta.data)
 
 
 # filter the dataset 
-ifnb
 ifnb.filtered <- subset(ifnb, subset = nCount_RNA > 800 &
                           nFeature_RNA > 200 & 
                           mito.percent < 5)
