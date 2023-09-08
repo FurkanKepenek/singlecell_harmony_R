@@ -8,8 +8,6 @@ library(SeuratData)
 library(tidyverse)
 library(ggplot2)
 
-
-
 # see available datasets in SeuratData package
 AvailableData()
 
