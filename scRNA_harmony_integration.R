@@ -1,3 +1,4 @@
+#useful R script for scRNA seq harmony integration
 #devtools::install_github('satijalab/seurat-data')
 #remotes::install_github("satijalab/seurat", "seurat5", quiet = TRUE)
 
